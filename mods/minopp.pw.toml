@@ -1,0 +1,13 @@
+name = "Mino++"
+filename = "minopp-1.5.0+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4QitwNm0/versions/TcPBp8ux/minopp-1.5.0%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "afe063f795df4d4a9225fac0bc3756e2f5740d98229f91dd56861acd9c4e767297f1f3208d490d4bd279225642db8511b46bed8d02df55c4e62da754d6273ccc"
+
+[update]
+[update.modrinth]
+mod-id = "4QitwNm0"
+version = "TcPBp8ux"

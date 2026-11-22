@@ -1,0 +1,13 @@
+name = "Jero's killer"
+author = "Varela"
+version = "1.21.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3592ca77dff81b4a19c08b998b15eff891e68c878a3d0b9ac8b66471c754ff2c"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.267"

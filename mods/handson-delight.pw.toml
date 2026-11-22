@@ -1,0 +1,13 @@
+name = "Hands-On Delight"
+filename = "handson_delight-neoforge-1.21.1-1.6.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/akw8BJFr/versions/FuF2lhHZ/handson_delight-neoforge-1.21.1-1.6.2.jar"
+hash-format = "sha512"
+hash = "1c20a3af4db52982f22556ece9522cb5fcf6f4f2061b56cc2bd07888b8c7b38fd50ed11e1f7cd246f09b8d141a0e1a0f646ea6c1f1614cdf06dc29c340f53b10"
+
+[update]
+[update.modrinth]
+mod-id = "akw8BJFr"
+version = "FuF2lhHZ"

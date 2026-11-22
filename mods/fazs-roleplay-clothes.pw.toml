@@ -1,0 +1,13 @@
+name = "Faz's Roleplay Clothes"
+filename = "FazRoleplayClothes-Neo1.21.1-1.6.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d82a48b3e830611a4bd9e006193f1bc30f19cc8b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6744704
+project-id = 1250026

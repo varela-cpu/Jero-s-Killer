@@ -1,0 +1,13 @@
+name = "Lushness"
+filename = "lush-neoforge-2.2+mc1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kHQI9bBs/versions/Eg0wZy98/lush-neoforge-2.2%2Bmc1.21.jar"
+hash-format = "sha512"
+hash = "225bce2b968f4d47975627498935d1393f52b58af3761afebd7f5ba8196d00deb1b0f44d388543087206066868adff75468d532e2a4d23609c72b6835b65211c"
+
+[update]
+[update.modrinth]
+mod-id = "kHQI9bBs"
+version = "Eg0wZy98"

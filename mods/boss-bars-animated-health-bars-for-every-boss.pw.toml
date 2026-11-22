@@ -1,0 +1,13 @@
+name = "Boss Bars: Animated Health Bars for Every Boss"
+filename = "bossbars-neoforge-mc1.21.1-0.1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7b35db9fc6c406b04a83ee3e86b0fb65cc5685d6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9749602
+project-id = 1751567

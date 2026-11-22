@@ -1,0 +1,13 @@
+name = "One-Sleep Timelapse"
+filename = "onesleeptimelapse-0.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2ed8c180bb27d86ba6776e7a04d5317cc6a03633"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7073951
+project-id = 1357452

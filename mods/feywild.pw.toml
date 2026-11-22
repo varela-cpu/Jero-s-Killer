@@ -1,0 +1,13 @@
+name = "Feywild"
+filename = "feywild-1.21.1-5.6.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BCfFCoTU/versions/9KU0gfux/feywild-1.21.1-5.6.4.jar"
+hash-format = "sha512"
+hash = "5908172838dac544ddbb77aa3079bddb61ef2c1084b0bd79df22bc22d323a4bbbae6c95fcc317af4e36ee3c7315baefa27f03856123c80542e51392368f909c0"
+
+[update]
+[update.modrinth]
+mod-id = "BCfFCoTU"
+version = "9KU0gfux"
