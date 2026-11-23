@@ -1,0 +1,13 @@
+name = "Slide!"
+filename = "slide-1.0.5+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rJXt0lpH/versions/FKmaYRku/slide-1.0.5%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "4cd7b11cf65a1f40dfd1c8e8d2438ddae2c4e18f86e5149740705d17c2b1ab1622eac741184b3d6b7bbd0f6f5f7bfbf9ac174edb72b7d1e2c14585df22038510"
+
+[update]
+[update.modrinth]
+mod-id = "rJXt0lpH"
+version = "FKmaYRku"

@@ -1,0 +1,13 @@
+name = "Golem Magicka"
+filename = "golemmagicka-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dcZM5qnj/versions/oN8r4GZF/golemmagicka-1.1.2.jar"
+hash-format = "sha512"
+hash = "30f1a9dd1c631c04bfe723c8cefdcb886fe3866a9bfb929fefc87eb73633e4b239d1d557b09fcdadf6981fcd901ee292fbf0be01b1b69fca7dd684e240fbcf38"
+
+[update]
+[update.modrinth]
+mod-id = "dcZM5qnj"
+version = "oN8r4GZF"

@@ -1,0 +1,13 @@
+name = "More Animals"
+filename = "MoAnimals-neoforge-1.21.1-0.2.1-BETA-2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QQAM7AG8/versions/28f0dJCV/MoAnimals-neoforge-1.21.1-0.2.1-BETA-2.jar"
+hash-format = "sha512"
+hash = "12d2cda0a755b919233f206247956a35ad8bca1a616490b449e9c320d2c7bf09fcbccf9a51b357f90f270a03f846723a356e7a434a4f791cd10d9e9587789d0f"
+
+[update]
+[update.modrinth]
+mod-id = "QQAM7AG8"
+version = "28f0dJCV"

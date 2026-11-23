@@ -1,6 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/aether-villages.pw.toml"
+hash = "eb072ec029ede8bccae7b0e5ee5faac555fa6c5a58062bdb6c2543ed6debb2e1"
+metafile = true
+
+[[files]]
+file = "mods/aether.pw.toml"
+hash = "cc3f6e6e8f1838d16e47cce9241e32176279673efb1438ff4451ccffa9579b14"
+metafile = true
+
+[[files]]
 file = "mods/alexs-mobs-1.21.1.pw.toml"
 hash = "fb53bc6c0d543cd7e88a5faba1e3235dca6c556e0cf8c1a534bbdec581c3c2f8"
 metafile = true
@@ -71,6 +81,11 @@ hash = "fcfacd2acbc4c9d3e62406ff7d212412324dd7767a0fd2ff4f58c91ac51c8850"
 metafile = true
 
 [[files]]
+file = "mods/chococraft.pw.toml"
+hash = "97b575e638c5ce5d3d20d6520c17dfea7a8e0e056a5aee1da43875638e1086f4"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
 metafile = true
@@ -78,6 +93,11 @@ metafile = true
 [[files]]
 file = "mods/citadel-1.21.1-port.pw.toml"
 hash = "80d7af83c244304212b8d95ab2e3525b3eeae02f31e41474c2cdec2f4d370723"
+metafile = true
+
+[[files]]
+file = "mods/common-network.pw.toml"
+hash = "cd8078f4d044e9fb548c2b792f2f1f1c04e1b80e1479446f67de3e8687dfbf67"
 metafile = true
 
 [[files]]
@@ -118,6 +138,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-waters-realistic-flowing-rivers.pw.toml"
 hash = "120d4f27cf500636f3106b1eb84c677db47112a70449c7149eeae5a409373424"
+metafile = true
+
+[[files]]
+file = "mods/easy-magic.pw.toml"
+hash = "1aa75105514780685caab9b945db2a2ea7c0594ced8c01e12f2a3e331f1af4e6"
 metafile = true
 
 [[files]]
@@ -176,6 +201,11 @@ hash = "0a933e834f0f816c326d0abeafaf1aa60310e2a5bc89bc67826cd1ffffce19c9"
 metafile = true
 
 [[files]]
+file = "mods/golem-magicka.pw.toml"
+hash = "a920cd266bdec252e53d479e78dbc767f2d2df067bd7fa203fe2a1098c9fef76"
+metafile = true
+
+[[files]]
 file = "mods/handson-delight.pw.toml"
 hash = "864643ebd29ca81f6eefef05ba2295c98a254107398f32ff6713909e28cb410e"
 metafile = true
@@ -188,6 +218,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
+metafile = true
+
+[[files]]
+file = "mods/irons-spells-n-spellbooks.pw.toml"
+hash = "d4eb15bbb7ad77b86a1f7c63cf260dd8419892626b8a8eb3055b5373f0569ec6"
 metafile = true
 
 [[files]]
@@ -208,6 +243,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "52be2f8af37fa9a10f817b3a676e56c9cdf33a3632048d8e922312878244b794"
+metafile = true
+
+[[files]]
+file = "mods/l2library.pw.toml"
+hash = "2b8d7b374452719fd2590becfeed14004c5567dddf1561bccb00be096f6184de"
 metafile = true
 
 [[files]]
@@ -236,6 +276,16 @@ hash = "f55dbd2ab8edcd97a403703f850d23a15f4641877781ce22b60857257d946d8d"
 metafile = true
 
 [[files]]
+file = "mods/moanimals.pw.toml"
+hash = "69a894a187c8a47e114441944e70ff22161be25c802043c92de8fa88b9d4b80e"
+metafile = true
+
+[[files]]
+file = "mods/modular-golems.pw.toml"
+hash = "4d5aca8798411489592579304e4b70dac521a020cd04386114179751e978a7cc"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "b14b3d7f88512f23bccca8e2f133e52e84307679b6eba4e818ce13e8f87e503d"
 metafile = true
@@ -251,6 +301,11 @@ hash = "748bdcbc7788a77881979189827f1baf3f6ef5fdaeb58b00e51e043c2c0abe39"
 metafile = true
 
 [[files]]
+file = "mods/nightlights.pw.toml"
+hash = "9b56c2c17c00dd51fffcbc5e5a59d2c325ed656e768365ae1a36f7692ffcd01e"
+metafile = true
+
+[[files]]
 file = "mods/obscure-tooltips.pw.toml"
 hash = "bc7a4ab61009d53b80e1888f9040555aecb089452360d48f4623902ed6fed142"
 metafile = true
@@ -263,6 +318,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "6514f98b34602b789fc2dbcafe7a67468d1c94d74965a0142a79b7ab23628a9a"
+metafile = true
+
+[[files]]
+file = "mods/paragliders.pw.toml"
+hash = "c323e7a690fc87db51353a7106e275d89e3947826070c0b02c3a4717361dde63"
 metafile = true
 
 [[files]]
@@ -283,6 +343,11 @@ metafile = true
 [[files]]
 file = "mods/portable-hole.pw.toml"
 hash = "56bd9950ffdd469122a4f23a3c8a25b130a39c8be8b279404fd01f6be0868023"
+metafile = true
+
+[[files]]
+file = "mods/primal-magick.pw.toml"
+hash = "5601b14e126014bb01c650e24ef9eae1a6bfe59d23828fbfb98523dc07e75abc"
 metafile = true
 
 [[files]]
@@ -326,6 +391,11 @@ hash = "2372d0016f2528eefbebf06878ee671779d3c684363c7b3d7c85ac1c2c1a1b4e"
 metafile = true
 
 [[files]]
+file = "mods/slide.pw.toml"
+hash = "f484103e1e9d500cbe26d27c2579d0960be3e780197c2624dc07ba6b4dc09dea"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
 metafile = true
@@ -348,6 +418,11 @@ metafile = true
 [[files]]
 file = "mods/the-bumblezone.pw.toml"
 hash = "60d30d899cd3458711edee88783bd5fc6a201d2bc6692968957b3d6396e4b310"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "8570c3bf9c3811db6a0bf36218270df792dc9de8231103100e1f3e2f1ac41e01"
 metafile = true
 
 [[files]]
